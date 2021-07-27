@@ -1,9 +1,9 @@
-Python boolerplate :ramen:
+Python boilerplate :ramen:
 ===
 
 ## Sobre este repositório :open_book:
 
-Repositório continuação do trabalho realizado [aqui](https://github.com/gabrielbdornas/python-boolerplate), criado como código fonte básico para iniciar trabalhos em Python :snake:.
+Repositório continuação do trabalho realizado [aqui](https://github.com/gabrielbdornas/python-boilerplate), criado como código fonte básico para iniciar trabalhos em Python :snake:.
 
 Criação de um [repositório template no github](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-template-repository), bem como a utilização do mesmo para iniciar [novos projetos](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-new-repository) foi utilizado como referência
 
@@ -18,9 +18,9 @@ Se você gostou deste conteúdo e deseja auxiliar na criação de mais material 
 
 Algo não funcionou, ficou com alguma dúvida ou gostaria de aprofundar algum ponto específico não detalhando no vídeo ou no código? Envie um e-mail para pagueumcafepgabriel@gmail.com para agendarmos uma sessão de tutoria online.
 
-## Utilizar boolerplate :open_book:
+## Utilizar boilerplate :open_book:
 
-- Criação de seu repositório a [partir do template](https://github.com/gabrielbdornas/python-boolerplate-template/generate)
+- Criação de seu repositório a [partir do template](https://github.com/gabrielbdornas/python-boilerplate-template/generate)
 - Clonando o projeto:
 
 ```Python

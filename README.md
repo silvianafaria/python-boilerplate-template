@@ -18,6 +18,20 @@ Se você gostou deste conteúdo e deseja auxiliar na criação de mais material 
 
 Algo não funcionou, ficou com alguma dúvida ou gostaria de aprofundar algum ponto específico não detalhando no vídeo ou no código? Envie um e-mail para pagueumcafepgabriel@gmail.com para agendarmos uma sessão de tutoria online.
 
+## Utilizar boolerplate :open_book:
+
+- Criação de seu repositório a [partir do template](https://github.com/gabrielbdornas/python-boolerplate-template/generate)
+- Clonando o projeto:
+
+```Python
+# Não copie e cole o comando abaixo cegamente, modifique <github-username> e <nome-do-seu-projeto>
+$ git clone https://github.com/<github-username>/<nome-do-seu-projeto>
+$ python3.9 -m venv venv
+$ source venv/bin/activate
+$ pip install -r requirements.txt
+# inclua no arquivo requirements.txt todas as bibliotecas necessárias p seu projeto
+```
+
 ## Encontrou algo errado no código ou quer melhorá-lo
 
 [Fork](https://github.com/login?return_to=%2Fgabrielbdornas%2Fpython-boolerplate) o repositório e abra um Pull Request!!! Prometo não demorar a responder.

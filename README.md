@@ -34,6 +34,6 @@ $ pip install -r requirements.txt
 
 ## Encontrou algo errado no código ou quer melhorá-lo
 
-[Fork](https://github.com/login?return_to=%2Fgabrielbdornas%2Fpython-boolerplate) o repositório e abra um Pull Request!!! Prometo não demorar a responder.
+[Fork](https://github.com/login?return_to=%2Fgabrielbdornas%2Fpython-boolerplate-template) o repositório e abra um Pull Request!!! Prometo não demorar a responder.
 
 Adoro este tipo de contribuição pois auxiliará no crescimento do código de maneira exponencial!

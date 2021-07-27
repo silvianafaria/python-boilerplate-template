@@ -7,7 +7,7 @@ Repositório continuação do trabalho realizado [aqui](https://github.com/gabri
 
 Criação de um [repositório template no github](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-template-repository), bem como a utilização do mesmo para iniciar [novos projetos](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-new-repository) foi utilizado como referência
 
-Um breve :movie_camera: [tutorial no YouTube]() foi criado para facilitar o entendimento e a construção do repositório.
+Um breve :movie_camera: [tutorial no YouTube](https://youtu.be/HObvXFlz4Ds) foi criado para facilitar o entendimento e a construção do repositório.
 
 
 ## Apoie este trabalho :money_with_wings: :money_with_wings: :money_with_wings:

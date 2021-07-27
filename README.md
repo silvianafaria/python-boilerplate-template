@@ -5,7 +5,7 @@ Python boolerplate :ramen:
 
 Repositório continuação do trabalho realizado [aqui](https://github.com/gabrielbdornas/python-boolerplate), criado como código fonte básico para iniciar trabalhos em Python :snake:.
 
-Criação de um [repositório template no github](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-template-repository), bem como a utilização do mesmo para iniciar [novos projetos](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-new-repository) foi utilizdo como referência
+Criação de um [repositório template no github](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-template-repository), bem como a utilização do mesmo para iniciar [novos projetos](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-new-repository) foi utilizado como referência
 
 Um breve :movie_camera: [tutorial no YouTube]() foi criado para facilitar o entendimento e a construção do repositório.
 
